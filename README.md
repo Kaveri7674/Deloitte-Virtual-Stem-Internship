@@ -1,4 +1,4 @@
-# Deloitte-Virtual-Internship
+# Deloitte-Virtual-STEM-Internship
 
 This repository contains my submission for the Deloitte STEM Virtual program.In this program,students are asked to help Daikibo Industrials(a globalleader in manufacturing of heavy machinery) with a variety of problems that they are facing
 
