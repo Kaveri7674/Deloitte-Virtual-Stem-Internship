@@ -4,6 +4,7 @@ program,students are asked to help Daikibo Industrials(a globalleader in manufac
 of heavy machinery) with a variety of problems that they are facing
 
 💻 Task 01 - Coding
+
 Daikibo is in the process of integrating IIoT (Industrial Internet-of-Things) devices to 
 monitor, measure and analyze their manufacturing processes. Half of theirinfrastructure 
 uses devices streaming telemetry data in one format, and the other half - in another. 
@@ -13,6 +14,7 @@ By completing this task, I learned how to manipulate json files in Python as wel
 to use unittest framework to write and run test for a python code.
 
 👨‍💻 Task 03 - Development
+
 Analyzing offline data is great, but having a real-time overview of processes and smart
 alerts when things break is even better. Daikibo's tech team would like us to build a 
 real-time manufacturing status dashboard. The first task of this process is drafting a
